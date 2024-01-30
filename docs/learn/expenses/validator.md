@@ -84,3 +84,4 @@ The DAO expenses list from the Validator Wallet
 | 29/01/2024 12:30:36 | sent1885zttz40c5v5jtfjmj9zrmx8xkhhlty08acw9 | 11,000 DVPN | Comp winners 3/3 | [🔎](https://www.mintscan.io/sentinel/txs/5BAB210C3EC05B71CFDFDC91115866CCB37AA4BC6404F95199E0E2C242382604?height=14701881)
 | 29/01/2024 12:48:25 | sent1p0c535h66vclvnw33fvcz2emze6248c8vffmu7 | 100,000 DVPN | Video VPN Bounty | [🔎](https://www.mintscan.io/sentinel/txs/2ADE29AC08BC6B185321659C7AB6687C9397C9E571444EEEBEBB0ADCC34BD2F9?height=14702060)
 | 29/01/2024 13:09:36 | sent1600vl2w6ewyu70um925lhcmeav757ml8umenqt | 125,000 DVPN | MOZ PRO Monthly sub | [🔎](https://www.mintscan.io/sentinel/txs/0148F299B883CDA8452173C765F855DA9F18E51DB82C68ADC5C0C078E98B1DB0?height=14702275)
+| 30/01/2024 21:59:35 | sent10unne9aclcdwfysj6ya5vzh7xwj3xht6djktun | 768,757 DVPN | JD SDK Development 1/2 | [🔎](https://www.mintscan.io/sentinel/txs/A4B4B992612716530AEB8E39F43A7A87F7E24E0E85A9876424CE875A6EEEF6E2?height=14722088)

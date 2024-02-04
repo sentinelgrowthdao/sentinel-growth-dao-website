@@ -78,9 +78,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'learnSidebar',
+            sidebarId: 'getStartedSidebar',
             position: 'left',
-            label: 'Learn',
+            label: 'Get Started',
           },
           {
             type: 'docSidebar',
@@ -129,8 +129,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Learn',
-                to: '/docs/learn/intro',
+                label: 'Get Started',
+                to: '/docs/get-started/intro',
               },
               {
                 label: 'Infrastructure',

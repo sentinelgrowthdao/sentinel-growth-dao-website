@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Who We Are',
-    Svg: require('@site/static/img/logo.svg').default,
+    Svg: require('@site/static/img/sentinel.svg').default,
     description: (
       <>  
         We are a team of committed representatives, each having made substantial contributions to Sentinel in the past. Each member holds a voting share, fostering a democratic and inclusive decision-making process within our team.

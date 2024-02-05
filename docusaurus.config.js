@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Sentinel Growth DAO',
   tagline: 'Your Gateway to Maximum Privacy and Growth within Sentinel dVPN Ecosystem',
-  favicon: 'img/logo.svg',
+  favicon: 'img/sentinel.svg',
 
   // Set the production url of your site here
   url: 'https://sentinelgrowthdao.com',
@@ -70,10 +70,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/dao-social-card.png',
       navbar: {
-        title: 'Sentinel Growth DAO',
+        //title: 'Sentinel Growth DAO',
         logo: {
-          alt: 'Sentinel Logo',
-          src: 'img/logo.svg',
+          alt: 'Sentinel Groth DAO Logo',
+          src: 'img/logo-dark.svg',
         },
         items: [
           {

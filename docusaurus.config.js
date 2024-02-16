@@ -107,6 +107,10 @@ const config = {
                 href: 'https://discord.com/channels/436630361313640469/1148964356592259082',
                 label: 'Discord',
               },
+              {
+                href: 'https://keybase.io/sentinelgrowth',
+                label: 'Keybase',
+              },
             ],
           },
           {

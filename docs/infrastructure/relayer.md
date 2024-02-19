@@ -9,8 +9,12 @@ In the Inter-Blockchain Communication (IBC) protocol, relayers play a crucial ro
 
 Sentinel Growth DAO relayer will manage the relaying of Sentinel, Osmosis, and Decentr through the IBC infrastructure. Sergey, representing Quokka, will be responsible for overseeing the relayers' operations to ensure the seamless and permissionless transfer of data packets across the designated blockchains.
 
+:::tip Analytics
+[https://relayers.smartstake.io/relayer/14FAC43C52C20093](https://relayers.smartstake.io/relayer/14FAC43C52C20093)
+:::
 
-# Relayer Addresses
+
+# Addresses
 
 :::info Sentinel
 [sent175vdslyt4whfyeudm463m5trsjhwh3ydxu8spp](https://www.mintscan.io/sentinel/address/sent175vdslyt4whfyeudm463m5trsjhwh3ydxu8spp)

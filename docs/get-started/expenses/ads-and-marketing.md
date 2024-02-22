@@ -39,3 +39,4 @@ The DAO expenses for advertisement & Marketing
 | 08/02/2024 10:00:32 | osmo1qz5fug4srwtwul03rge5af3zhfh5wh9kcyd8na | 175 USDC | Community Manager Ab Eff | [🔎](https://www.mintscan.io/osmosis/txs/40AFA1FB00177A319F6AE0D23AD8FB37F741B5A44D8AAE7D3DB243A4A3389A75?height=13687389)
 | 18/02/2024 09:46:56 | osmo1qz5fug4srwtwul03rge5af3zhfh5wh9kcyd8na | 175 USDC | Community Manager Ab Eff | [🔎](https://www.mintscan.io/osmosis/txs/3F17AE999B08130ABB443FBC9B4E3CABA4FE1351DFC5AE83F78200CC38E6484A?height=13860834)
 | 18/02/2024 09:47:26 | osmo1qz5fug4srwtwul03rge5af3zhfh5wh9kcyd8na | 200 USDC | Payment Content Video | [🔎](https://www.mintscan.io/osmosis/txs/45F3AC25905B02070AA45E78DE986E5829E011754EF1E0BE5E341EFE21E971DF?height=13860840)
+| 22/02/2024 17:30:38 | osmo1qz5fug4srwtwul03rge5af3zhfh5wh9kcyd8na | 505 USDC | Zealy end of campaign payment | [🔎](https://www.mintscan.io/osmosis/tx/E989765EE943D2F21CDB8472B287E6BD87EF22AD7D0A0501A364F44DDA566200)

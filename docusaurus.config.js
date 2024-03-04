@@ -111,6 +111,10 @@ const config = {
                 href: 'https://keybase.io/sentinelgrowth',
                 label: 'Keybase',
               },
+              {
+                href: 'https://github.com/sentinelgrowthdao',
+                label: 'GitHub',
+              },
             ],
           },
           {

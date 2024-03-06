@@ -24,3 +24,4 @@ The DAO expenses for infrastructure
 | 26/01/2024 17:56 | sent1xuqdpg8fg78rgn378z5mu5mmmw9lf2r4szej06 | 1,000 DVPN | Iranian Node | [🔎](https://www.mintscan.io/sentinel/txs/101FC6E2214D8E9534FEDC227860272F1C2B916F1847064C7D85BE25BDACB465?height=14661278)
 | 28/01/2024 16:36 | sent1c55vrt7qy57eugz384qha4x7pyda7wytk0cfx0 | 10,000 DVPN | Iranian Node | [🔎](https://www.mintscan.io/sentinel/txs/8F2D7BCFAD928A67D5B872D959B4E690286D7F11CA431A6076E0A8E27782FD01?height=14689760)
 | 10/02/2024 07:54 | osmo175vdslyt4whfyeudm463m5trsjhwh3yd4uzenu | 590 OSMO | Relayer Funds | [🔎](https://www.mintscan.io/osmosis/txs/3EFE5A9D5379F48377C3F1E60EE6E0641F34BA8962BF1AA1CD75ADFB3795CBAD?height=13720684)
+| 04/03/2024 11:04 | cosmos1nygcr5p33plzq4akfxnl3nr7nf59gnshhsqm54 | 17.607960 ATOM | Raspberry Pi Nigeria Testing | [🔎](https://www.mintscan.io/osmosis/tx/B41CC915568E80F120D726100849F3A0BF0AE506A64B9DCE4AEC65D907BD70A5?height=14122260)

@@ -16,13 +16,13 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+        {/* <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="https://www.mintscan.io/sentinel/validators/sentvaloper1nygcr5p33plzq4akfxnl3nr7nf59gnshnwf0ln">
             Stake with us
           </Link>
-        </div>
+        </div> */}
       </div>
     </header>
   );

@@ -5,68 +5,52 @@ sidebar_position: 1
 
 # Sentinel Growth DAO
 
-The Growth DAO manages the community fund and take the lead on various campaigns including, but not limited to:
-- Governance Structure 
-- Community engagement from a community perspective 
-- White-label dVPN development funding
-- Marketing and Partnerships
-- Research and Development
+The Sentinel Growth DAO is a democratic group of dedicated members of the Sentinel community intent on upholding the highest standards of professionalism in its duties (sprinkling just the right amount of fun here and there too). We are committed to fostering growth through a system of structured and recorded governance, community engagement, and strategic partnerships. Our ranks are unified by a clear and singular mission: To grow the Sentinel network and ecosystem.
+
+We at the DAO define that growth as expansion across a number of key metrics, including: The quality and quantity of VPNs built on the Sentinel Network, the volume of users accessing or selling data on it, and the reach of the organizations that purchase data from it. But those are just the measures of utility—in most people's minds, growth is measured best by the ability of the $DVPN coin to accrue value and attain a multi-billion dollar market cap. That is something we at the Growth DAO know is both possible and eminently achievable.
 
 
-## Governance Structure
+## Commitment to Transparency
 
-The Growth DAO is governed by willing representatives who have contributed towards Sentinel in the past, each with a voting share in the DAO. Decisions will be reached through a majority consensus. All actions, discussions, and voting will be recorded in the usual manner, i.e., Commonwealth or published minutes.
+Many Sentinel supporters will no doubt have seen or at least heard about the video review that was uploaded by Coin Bureau to the private Coin Bureau Club Discord in December. The video was subsequently leaked and began to circulate within the Sentinel community, but has since been removed from all official channels. Sentinel admins will banhammer anyone posting the video, so if you would like to watch it, please go sign up for [Coin Bureau Club](https://hub.coinbureau.com/?ref=dvpn.news)!
 
+While it's publicly known that Guy (Mr. Coin Bureau) himself holds $DVPN and obviously wants the project to succeed, at one point in the video he appeared to have some questions about what the Sentinel Growth DAO is and how it functions. The particular moniker he chose to use seemed to be primarily levied for theatrical effect, but it nonetheless inspired us to redouble our efforts at proving that the DAO is open about its operations and honest on how the funds allocated to us are spent and managed.
 
-## Community Engagement Initiative
-
-Funds are allocated to host regular interactive events such as AMAs, developer workshops, community voting, and community-involved content that includes provisions for technical guides and submissions to things like the Sentinel Knowledge base. 
-The purpose is to build a strong, engaged community that can contribute to the growth and development of Sentinel.
+All of the DAO transactions are logged and categorized under expenses.
 
 
-## White-label dVPN development funding
+## Governance Structure: A Collaborative Framework
 
-Within the DAO, a dedicated funding pool is commissioned and specifically designed to support projects that would yield positive results for the Sentinel dVPN framework. For example, the DAO committee could prioritize funding requests for projects that would:
-- Provide financial support for developing and launching new white-labeled dVPN products.
-- Provide marketing and promotional support for white labels, increase overall awareness, and ultimately, market share for the Sentinel Network. 
-- Develop new features for the Sentinel dVPN framework that make the white labeling process easier.
+The Governance Structure of the Sentinel Growth DAO is designed to embody the principles of democracy and inclusivity. The DAO is governed by representatives who have shown unwavering support for Sentinel and operates on a majority consensus basis. This system ensures that decisions are made collectively and reflect the community's best interests. All actions, discussions, and voting processes are meticulously recorded; a standard we hope will foster a culture of openness and accountability.
 
 
-## Marketing 
+## Community Engagement
 
-The DAO is the main flag holders for the product.
-
-- Content marketing: the DAO invests in creating high-quality content that educates potential users about the Sentinel dVPN framework, its products, its mission, and values. 
-- Social Media Engagement: leverage the community's support to promote and champion a network on various social media platforms, similar to an ambassador program. This involves coordinating with community members for specific social campaigns without resorting to unethical practices like raiding or astroturfing, ultimately strengthening the network's online presence and reputation.
-- SEO: Using specific keywords and links to highlight Sentinel and its products with messaging. 
-- Influencer partnerships: Getting referral codes known and shared, further collaborations on using Sentinel dVPN. Imagine your favorite YouTuber shilling their own custom VPN (built on Sentinel) instead of Nord or Express VPN. - This is the type of brand capture we need. 
-- Conferences and Events: Now the nature of Sentinel is privacy, Imagine sponsoring an event and providing free dVPN services for everyone at the event. We need people to experience the product, download it for themselves, use it, then refer others to it. 
+The Sentinel Growth DAO recognizes the indispensable role Sentinel’s community and its culture play in the project, and thus allocates resources towards hosting interactive events like spaces and poker events (and more to come). Initiatives like these encourage engagement and bolster an already-robust community that actively, enthusiastically contributes to Sentinel's development and expands its reach. The DAO also ensures innovation thrives in the ecosystem by involving the community in content creation and technical discussions.
 
 
-## Partnerships
+## Accelerating dVPN Development Through Targeted Funding
 
-The primary goal of forming a partnership is to enhance and advance a project. To achieve this, we aim to leverage growth tools such as Galxe, Disco, Quest engine, or other options we prefer. We should also consider transitioning to established platforms like Product Hunt. These tools and partnerships will play a crucial role in promoting Sentinel and positioning it as a strong competitor against traditional VPN providers.
-
-
-## Integration Partnerships
-
-Creating a rewarding system within a community encourages people to identify opportunities for technical integration, motivating their efforts. One example of this is forming partnerships with educational institutions or online learning platforms to promote the mission and blockchain technology of The DAO.
+The Sentinel Growth DAO has established a dedicated funding pool to support projects that want to enhance the Sentinel dVPN framework. Those strategic investments lead to new white-labeled dVPN products, increasingly streamlined processes to create them, and greater market awareness. By prioritizing projects with the potential to expand Sentinel's reach and functionality, the DAO is laying the groundwork for a more accessible and powerful network. To date, the DAO has spent over $50,000 USD on developers to build applications and infrastructure, with much more to come.
 
 
-## Research and Development
+## Marketing and Partnerships: Expanding Sentinel's Reach 
 
-The DAO conducts research and initiates development projects that are in line with the objectives of the Sentinel DVPN project. For instance, in order to secure a substantial portion of the multi-billion dollar VPN market, Sentinel needs to create or host new dVPN applications and various tools that enhance user engagement. This may encompass:
+Marketing and partnerships play a pivotal role in the Sentinel Growth DAO's strategy to elevate Sentinel's presence in the digital privacy space. Through content marketing, social media engagement, SEO, and influencer partnerships, the DAO aims to educate potential users and expand Sentinel’s user base. To onboard more users and GROW the network, we have launched [dVPN.news](https://dvpn.news) (where you are reading this now), a platform that will serve as a home not only for community-focused news; but also updated, polished, easy-to-follow tutorials and guides in the future as well.
 
-- The development of a native wallet app for DVPN.
-- Enhancements to current tools such as Network Stats and Node Explorer pages.
-- The creation of tools for node hosting and node launching.
-- The establishment of a routing protocol to enhance network security.
-- The design and implementation of other management tools focused on providing maximum user-friendliness.
+Additionally, we launched a Zealy promotion, albeit with mixed results. Fostering integration partnerships with educational institutions is crucial to establishing Sentinel as a leader in the bandwidth and VPN Marketplace.
 
 
-These tools would simplify the usage of the Sentinel network, thereby enhancing its ability to attract and retain users. Furthermore, they would contribute to enhancing the network's performance and security, making it more appealing to developers and investors alike. Through strategic investments in development, Sentinel can foster a thriving ecosystem of dVPN applications and tools, benefiting both users and the overall growth of the DAO.
+## Research and Development: Securing the Future
+
+The Sentinel Growth DAO is actively involved in research and development to enhance the Sentinel Network's performance and security. By investing in the development of a native wallet app, improving network tools, and creating user-friendly management tools, the DAO is improving user experience as well as securing Sentinel's position in the multi-billion dollar VPN market.
 
 
-## Funding
+## Funding for Sustainable Growth
 
-The DAO is funded with coins from the community fund, approximately 240,000,000 coins, to support the implementation of these initiatives. The precise amount will be determined based on the requirements and the scope of our operations, subject to approval by DAO members. A multi-signature (multi-sig) wallet has been established and will be under the supervision of DAO members.
+With a community fund of approximately 270,000,000 coins (with an additional 50,000,000+ delegated to the DAO. 100,000,000 is unbonding to eventually fund more development), the Sentinel Growth DAO is well-equipped to support its ambitious initiatives. The funds will be deployed at a sustainable rate to ensure organic growth, with the ultimate objectives of helping Sentinel reach one million users in 2024 and establishing dozens of VPNs on the network. The DAO’s financial strategy underscores its commitment to making Sentinel a billion-dollar market cap project.
+
+
+## To end with
+
+The Sentinel Growth DAO’s prioritization of transparency, strong and engaged community, and investments in development and partnerships exemplify how a community organization can help a blockchain ecosystem thrive. The DAO is advancing the Sentinel Network and Decentralized VPN and redefining the privacy and security standards in the entire Web3 space. As Sentinel itself continues to grow, the Growth DAO’s commitments to transparency and community-driven development will never change.

@@ -7,13 +7,13 @@ sidebar_position: 7
 
 The DAO expenses for infrastructure
 
-| TX TIME (UTC) | RECIPIENT                                 | AMOUNT | DESCRIPTION | TX DETAILS
+| TX DATE (UTC) | RECIPIENT                                 | AMOUNT | DESCRIPTION | TX DETAILS
 |---------------|-------------------------------------------|--------|-------------|-----------
-| 26/01/2024 11:12 | cosmos12uju5ltd2qdv6pp0292m2cc80xyejh332n6ymg | 7.9 ATOM | Omniflix Video | [🔎](https://www.mintscan.io/cosmos/txs/352DA11518462ED15104B3023AC420F135B255F9E0B8C54265C43D56352EF121?height=18886179)
-| 29/01/2024 12:48 | sent1p0c535h66vclvnw33fvcz2emze6248c8vffmu7 | 100,000 DVPN | Video VPN Bounty | [🔎](https://www.mintscan.io/sentinel/txs/2ADE29AC08BC6B185321659C7AB6687C9397C9E571444EEEBEBB0ADCC34BD2F9?height=14702060)
-| 31/01/2024 12:46 | sent1s46fsstwjmvn7dh345ypu7gtmshqyey65uj0uf | 220,000 DVPN | Video Editor x1 | [🔎](https://www.mintscan.io/sentinel/txs/B3A11AF15D1251EB9FF06E3FAB52147F9DE598C8C30FDA2ECBD41E117DDD5E46?height=14731067)
-| 18/02/2024 09:47 | osmo1qz5fug4srwtwul03rge5af3zhfh5wh9kcyd8na | 200 USDC | Omniflix Video made by Ab Eff | [🔎](https://www.mintscan.io/osmosis/txs/45F3AC25905B02070AA45E78DE986E5829E011754EF1E0BE5E341EFE21E971DF?height=13860840)
-| 26/02/2024 10:37 | osmo1qz5fug4srwtwul03rge5af3zhfh5wh9kcyd8na | 100 USDC | Omniflix video made by Ab Eff | [🔎](https://www.mintscan.io/osmosis/txs/6AD2C9F9B693A0AEBC3089858C6543843711A4FCA8E8496B073DC1A4DF89A19B?height=13999680)
-| 03/03/2024 23:17 | sent1zr6hglr56dtsyrx0guppcas7huwggfu9z6tr6k | 100,000 DVPN | Node Manual Setup Video | [🔎](https://www.mintscan.io/sentinel/txs/A609EA99987345AE9BFD79B2DFF7DDFBD6AE2B7E6476A0C36D368515402EFAD8?height=15202193)
-| 04/03/2024 00:21 | sent1hud0wx3pjd83jcd0frkzt70dhdu7wgjvh5f4za | 200,000 DVPN | Node Linux Script & VPS Setup Video | [🔎](https://www.mintscan.io/sentinel/txs/C522DEFFEEADD6AAA143B46481AA1693F065A5A00CD9CA854B5E0F1D575C0EEE?height=15202839)
-| 06/03/2024 05:04 | sent13u8rnqeakqzz23k6zetdj0ld0j26c2jjgdepyv | 100,000 DVPN | Node Raspberry Setup Video | [🔎](https://www.mintscan.io/sentinel/tx/A6E49E1EAD1D720A6D57DD3A2734BE2CA69749B05C5F58A9FC832B9974EF2A1A?height=15234937)
+| 26/01/2024 | cosmos12uju5ltd2qdv6pp0292m2cc80xyejh332n6ymg | 7.9 ATOM | Omniflix Video | [🔎](https://www.mintscan.io/cosmos/txs/352DA11518462ED15104B3023AC420F135B255F9E0B8C54265C43D56352EF121?height=18886179)
+| 29/01/2024 | sent1p0c535h66vclvnw33fvcz2emze6248c8vffmu7 | 100,000 DVPN | Video VPN Bounty | [🔎](https://www.mintscan.io/sentinel/txs/2ADE29AC08BC6B185321659C7AB6687C9397C9E571444EEEBEBB0ADCC34BD2F9?height=14702060)
+| 31/01/2024 | sent1s46fsstwjmvn7dh345ypu7gtmshqyey65uj0uf | 220,000 DVPN | Video Editor x1 | [🔎](https://www.mintscan.io/sentinel/txs/B3A11AF15D1251EB9FF06E3FAB52147F9DE598C8C30FDA2ECBD41E117DDD5E46?height=14731067)
+| 18/02/2024 | osmo1qz5fug4srwtwul03rge5af3zhfh5wh9kcyd8na | 200 USDC | Omniflix Video made by Ab Eff | [🔎](https://www.mintscan.io/osmosis/txs/45F3AC25905B02070AA45E78DE986E5829E011754EF1E0BE5E341EFE21E971DF?height=13860840)
+| 26/02/2024 | osmo1qz5fug4srwtwul03rge5af3zhfh5wh9kcyd8na | 100 USDC | Omniflix video made by Ab Eff | [🔎](https://www.mintscan.io/osmosis/txs/6AD2C9F9B693A0AEBC3089858C6543843711A4FCA8E8496B073DC1A4DF89A19B?height=13999680)
+| 03/03/2024 | sent1zr6hglr56dtsyrx0guppcas7huwggfu9z6tr6k | 100,000 DVPN | Node Manual Setup Video | [🔎](https://www.mintscan.io/sentinel/txs/A609EA99987345AE9BFD79B2DFF7DDFBD6AE2B7E6476A0C36D368515402EFAD8?height=15202193)
+| 04/03/2024 | sent1hud0wx3pjd83jcd0frkzt70dhdu7wgjvh5f4za | 200,000 DVPN | Node Linux Script & VPS Setup Video | [🔎](https://www.mintscan.io/sentinel/txs/C522DEFFEEADD6AAA143B46481AA1693F065A5A00CD9CA854B5E0F1D575C0EEE?height=15202839)
+| 06/03/2024 | sent13u8rnqeakqzz23k6zetdj0ld0j26c2jjgdepyv | 100,000 DVPN | Node Raspberry Setup Video | [🔎](https://www.mintscan.io/sentinel/tx/A6E49E1EAD1D720A6D57DD3A2734BE2CA69749B05C5F58A9FC832B9974EF2A1A?height=15234937)

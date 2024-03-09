@@ -18,3 +18,4 @@ The DAO expenses for infrastructure
 | 04/03/2024 | sent1hud0wx3pjd83jcd0frkzt70dhdu7wgjvh5f4za | 200,000 DVPN | Node Linux Script & VPS Setup Video | [🔎](https://www.mintscan.io/sentinel/txs/C522DEFFEEADD6AAA143B46481AA1693F065A5A00CD9CA854B5E0F1D575C0EEE?height=15202839)
 | 05/03/2024 | cosmos1vl8xm7x04cedgh639hc9ucvf6zc754fyfewhef | 176.186976 ATOM | Video Designer New Stats GIF | [🔎](https://www.mintscan.io/cosmos/tx/96ADFCBC38208BC65DCE929866B67307306881478FD302DE11852D6E8B80A603?height=19432306)
 | 06/03/2024 | sent13u8rnqeakqzz23k6zetdj0ld0j26c2jjgdepyv | 100,000 DVPN | Node Raspberry Setup Video | [🔎](https://www.mintscan.io/sentinel/tx/A6E49E1EAD1D720A6D57DD3A2734BE2CA69749B05C5F58A9FC832B9974EF2A1A?height=15234937)
+| 08/03/2024 | sent1zr6hglr56dtsyrx0guppcas7huwggfu9z6tr6k | 100,000 DVPN | Decentr/dVPN Setup Video | [🔎](https://www.mintscan.io/sentinel/tx/F0B4A9C2AE8F7C434DE4798F7499252FFAC78DF91AEDF8C4A496B6A027230DDC?height=15269538)

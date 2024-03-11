@@ -108,13 +108,14 @@ const config = {
                 label: 'Discord',
               },
               {
-                href: 'https://keybase.io/sentinelgrowth',
-                label: 'Keybase',
-              },
-              {
                 href: 'https://github.com/sentinelgrowthdao',
                 label: 'GitHub',
               },
+              {
+                href: 'https://keybase.io/sentinelgrowth',
+                label: 'Keybase',
+              },
+
             ],
           },
           {
@@ -169,6 +170,14 @@ const config = {
               {
                 href: 'https://dvpn.news',
                 label: 'DVPN News',
+              },
+              {
+                href: 'https://github.com/sentinelgrowthdao',
+                label: 'GitHub',
+              },
+              {
+                href: 'https://keybase.io/sentinelgrowth',
+                label: 'Keybase',
               },
             ],
           },

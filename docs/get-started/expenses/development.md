@@ -18,3 +18,4 @@ The DAO expenses related to development
 | 21/02/2024 | cosmos1vl8xm7x04cedgh639hc9ucvf6zc754fyfewhef | 212.947804 ATOM | Windows App Development from Bagimsiz Team | [🔎](https://www.mintscan.io/cosmos/txs/E71312D2634B12B6BAC745E4A5EA73C98AB0892337C5C9F149222598615E47B3?height=19249592)
 | 21/02/2024 | cosmos1vl8xm7x04cedgh639hc9ucvf6zc754fyfewhef | 518.123969 ATOM | Dragon VPN App | [🔎](https://www.mintscan.io/cosmos/txs/B7861EC58E3D4C036AD7EBCDAC553A7D8F3E49109DDE0978E1BD9E8BA2822555)
 | 21/02/2024 | cosmos1vl8xm7x04cedgh639hc9ucvf6zc754fyfewhef | 519.477514 ATOM | Properly Design studio 2/2 | [🔎](https://www.mintscan.io/cosmos/txs/74945083D2F2E5D25063D59E7024AB2859ACDD07A8984B5E86FB15461BA93248?height=19253873)
+| 10/03/2024 | sent1xmc6yzr95v0w5pcx7k8qx97w69rhc4ca86kf27 | 100,000 DVPN | Payment For Telegram Node Monitor bot | [🔎](https://www.mintscan.io/sentinel/tx/3FCFF55831D27A0EA8DC589B8611DA3E48010A4B5C2C3F722C4F961F8CCD339A?height=15297982)

@@ -44,3 +44,4 @@ The DAO expenses for advertisement & Marketing
 | 08/03/2024 | cosmos1vl8xm7x04cedgh639hc9ucvf6zc754fyfewhef | 75.3396001 ATOM | Payment for video, dvpn.news article and journalist | [🔎](https://www.mintscan.io/cosmos/tx/81CD7A30E4F9C2FC9CD90550ADAEE2CA7E056417842F8CC779C12D55F7E75635)
 | 11/03/2024 | osmo1tfr2rnktlm9ehrqnnl430zyyvwwqpklw6xdqnl | 250 USDC | Cosmobot for 3 Telegram channels | [🔎](https://www.mintscan.io/osmosis/tx/2CC514858E3E89994F6D091AFCD34BCF639BAF93E3778131F8E20BB4F43E5D41?height=14245349)
 | 11/03/2024 | sent13k4dc7ka7lcqm5s2puwls2rcdxc5upj6tsz6az | 20,000 DVPN | Tip Bot | [🔎](https://www.mintscan.io/sentinel/tx/12BF7B2F20A22CA9D44EB4B1AED9CBEBC3B5CB341777C9D44053EC6BF11EE2F3?height=15313711)
+| 15/03/2024 | cosmos1vl8xm7x04cedgh639hc9ucvf6zc754fyfewhef | 44.367606 ATOM | Adobe Creative Software | [🔎](https://www.mintscan.io/cosmos/tx/F0527C73AD5608001DCB6C17DFCDF83C01EAA5198F3B1877482B95D8AC853070?height=19570971)

@@ -20,3 +20,5 @@ The DAO expenses for infrastructure
 | 06/03/2024 | sent13u8rnqeakqzz23k6zetdj0ld0j26c2jjgdepyv | 100,000 DVPN | Node Raspberry Setup Video | [🔎](https://www.mintscan.io/sentinel/tx/A6E49E1EAD1D720A6D57DD3A2734BE2CA69749B05C5F58A9FC832B9974EF2A1A?height=15234937)
 | 08/03/2024 | sent1zr6hglr56dtsyrx0guppcas7huwggfu9z6tr6k | 100,000 DVPN | Decentr/dVPN Setup Video | [🔎](https://www.mintscan.io/sentinel/tx/F0B4A9C2AE8F7C434DE4798F7499252FFAC78DF91AEDF8C4A496B6A027230DDC?height=15269538)
 | 18/03/2024 | sent1zr6hglr56dtsyrx0guppcas7huwggfu9z6tr6k | 25,000 DVPN | Sentinel Introduction Video | [🔎](https://www.mintscan.io/sentinel/tx/E636E2C3A60F391D046B9C1349097B1209E1F601CFA67D39124D0D6F75490EC2?height=15411100)
+| 18/03/2024 | sent1hud0wx3pjd83jcd0frkzt70dhdu7wgjvh5f4za | 100,001 DVPN | dVPN Web App Bounty | [🔎](https://www.mintscan.io/sentinel/tx/0F50419D36ED922DE37F7E8C15C26C292EC61871D32963F5EE433825D40FC993?height=15413001)
+| 18/03/2024 | sent1zr6hglr56dtsyrx0guppcas7huwggfu9z6tr6k | 100,001 DVPN | dVPN Web App Bounty | [🔎](https://www.mintscan.io/sentinel/tx/C25AA257A15FF6EB1163128A05331EC7F115EDE4D18FCFFD021A8E212AF10516?height=15413013)

@@ -45,3 +45,4 @@ The DAO expenses for advertisement & Marketing
 | 11/03/2024 | osmo1tfr2rnktlm9ehrqnnl430zyyvwwqpklw6xdqnl | 250 USDC | Cosmobot for 3 Telegram channels | [🔎](https://www.mintscan.io/osmosis/tx/2CC514858E3E89994F6D091AFCD34BCF639BAF93E3778131F8E20BB4F43E5D41?height=14245349)
 | 11/03/2024 | sent13k4dc7ka7lcqm5s2puwls2rcdxc5upj6tsz6az | 20,000 DVPN | Tip Bot | [🔎](https://www.mintscan.io/sentinel/tx/12BF7B2F20A22CA9D44EB4B1AED9CBEBC3B5CB341777C9D44053EC6BF11EE2F3?height=15313711)
 | 15/03/2024 | cosmos1vl8xm7x04cedgh639hc9ucvf6zc754fyfewhef | 44.367606 ATOM | Adobe Creative Software | [🔎](https://www.mintscan.io/cosmos/tx/F0527C73AD5608001DCB6C17DFCDF83C01EAA5198F3B1877482B95D8AC853070?height=19570971)
+| 20/03/2024 | osmo1qz5fug4srwtwul03rge5af3zhfh5wh9kcyd8na | 260 USDC | Last Payment Community Manager Ab Eff + Omniflix Contest | [🔎](https://www.mintscan.io/osmosis/tx/690755C9925812B3D077C803CF9B60142E18AFA9A3B8046183664C13542F6E99?height=14399570)

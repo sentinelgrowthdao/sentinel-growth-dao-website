@@ -36,8 +36,8 @@ The multisig wallet is managed by 5 DAO Members which are also active Sentinel c
 
 ## Other Wallets
 
-- Sentinel Kucoin: [sent1600vl2w6ewyu70um925lhcmeav757ml8umenqt](https://dev.mintscan.io/sentinel/account/sent1600vl2w6ewyu70um925lhcmeav757ml8umenqt)
-- Cosmos: [cosmos1nygcr5p33plzq4akfxnl3nr7nf59gnshhsqm54](https://dev.mintscan.io/cosmos/account/cosmos1nygcr5p33plzq4akfxnl3nr7nf59gnshhsqm54)
-- Osmo: [osmo1nygcr5p33plzq4akfxnl3nr7nf59gnshltntz8](https://dev.mintscan.io/osmosis/account/osmo1nygcr5p33plzq4akfxnl3nr7nf59gnshltntz8)
-- Akash: [akash1nygcr5p33plzq4akfxnl3nr7nf59gnsh6tdud0](https://dev.mintscan.io/akash/account/akash1nygcr5p33plzq4akfxnl3nr7nf59gnsh6tdud0)
+- Sentinel Kucoin: [sent1600vl2w6ewyu70um925lhcmeav757ml8umenqt](https://www.mintscan.io/sentinel/account/sent1600vl2w6ewyu70um925lhcmeav757ml8umenqt)
+- Cosmos: [cosmos1nygcr5p33plzq4akfxnl3nr7nf59gnshhsqm54](https://www.mintscan.io/cosmos/account/cosmos1nygcr5p33plzq4akfxnl3nr7nf59gnshhsqm54)
+- Osmo: [osmo1nygcr5p33plzq4akfxnl3nr7nf59gnshltntz8](https://www.mintscan.io/osmosis/account/osmo1nygcr5p33plzq4akfxnl3nr7nf59gnshltntz8)
+- Akash: [akash1nygcr5p33plzq4akfxnl3nr7nf59gnsh6tdud0](https://www.mintscan.io/akash/account/akash1nygcr5p33plzq4akfxnl3nr7nf59gnsh6tdud0)
 - Ethereum: [0x8Cc482eCa6EF398136a65574935480D84d4e2d75](https://etherscan.io/address/0x8Cc482eCa6EF398136a65574935480D84d4e2d75)

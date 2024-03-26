@@ -26,3 +26,4 @@ The DAO expenses for infrastructure
 | 10/02/2024 | osmo175vdslyt4whfyeudm463m5trsjhwh3yd4uzenu | 590 OSMO | Relayer Funds | [🔎](https://www.mintscan.io/osmosis/txs/3EFE5A9D5379F48377C3F1E60EE6E0641F34BA8962BF1AA1CD75ADFB3795CBAD?height=13720684)
 | 04/03/2024 | cosmos1nygcr5p33plzq4akfxnl3nr7nf59gnshhsqm54 | 17.607960 ATOM | Raspberry Pi Nigeria Testing | [🔎](https://www.mintscan.io/osmosis/tx/B41CC915568E80F120D726100849F3A0BF0AE506A64B9DCE4AEC65D907BD70A5?height=14122260)
 | 14/03/2024 | sent17h00cnhccphxftsxm98s88n3s20quqkj4jg6dv | 1,000,000 DVPN | Subscription Faucet refill | [🔎](https://www.mintscan.io/sentinel/tx/7DD8FE205B11BE1E47A666540AA06DFC88091D5975AD1E0CA2653FB561D16F1A?height=15355738)
+| 26/03/2024 | osmo1ga50zexwcsnr5t33nmfmunzv80rmnnytzs5z8l | 270 USDC | Raspberry for Casanode | [🔎](https://www.mintscan.io/osmosis/tx/756CFA3D0CCD894F149420B49DC28F348945ECBEE5068BB7E9B3307DBEE5A97D?height=14508760)

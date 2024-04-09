@@ -24,3 +24,4 @@ The DAO expenses related to development
 | 19/03/2024 | sent10unne9aclcdwfysj6ya5vzh7xwj3xht6djktun | 726,744 DVPN | JD SDK Development | [🔎](https://www.mintscan.io/sentinel/tx/BF307574B9A5D6E84FD58E748745CB8AEB8EAF736BADD54383B240A85F8DED0D?height=15433947)
 | 05/04/2024 | sent1aqzdyf7c8vcy7826yw6zsy4y0gcvpf4sczhp44 | 155,750 DVPN | Indonesian Socials & Mods | [🔎](https://www.mintscan.io/sentinel/tx/8A4588DC7E058E943076238D06ED7F0401565456BF937511AB0C14C2A575C397?height=15673270)
 | 05/04/2024 | sent10unne9aclcdwfysj6ya5vzh7xwj3xht6djktun | 1,610,000 DVPN | JD SDK Development | [🔎](https://www.mintscan.io/sentinel/tx/4B9D7A2FB859306C4F926EB96E73CA3DB92B27652B26C6F34F282076ABBEA330?height=15674794)
+| 07/04/2024 | sent1znpyggqftz5hnqu4dqttp9ce3q4xhc5xlzfvtv | 500,000 DVPN | Bounty Ipv6 | [🔎](https://www.mintscan.io/sentinel/tx/EDBED03113A7DFAC1B9B38163AB12BF2F3E507B53ED35F26E7B76477167C7271?height=15709127)

@@ -52,3 +52,4 @@ The DAO expenses for advertisement & Marketing
 | 08/04/2024 | sent1600vl2w6ewyu70um925lhcmeav757ml8umenqt | 210,000 DVPN | X Marketing + Elon Sub | [🔎](https://www.mintscan.io/sentinel/tx/699777E36BBB45629453857367AEEF4DB676BB1CD7F3BFE838B9150B3C85C841?height=15715618)
 | 08/04/2024 | noble19uv7rcw9q9tuxydz0wr24uja27evnv0u2ffh4q | 100 USDC | X Marketing - CH | [🔎](https://www.mintscan.io/osmosis/tx/4AB1983824AC95EC6C0D90390980C579BD34B7577F3AA2B9571233B23CB5FF23?height=14765282)
 | 08/04/2024 | sent1j88x23kvz5zex8gnvqytsk20suhcjsc29vvawt | 25,000 DVPN | dvpn.news Foxinodes Article | [🔎](https://www.mintscan.io/sentinel/tx/43187150D118703655BDFB76D2033BD2FC431C541A2932AB03EF1BDF227FA1C5?height=15724136)
+| 09/04/2024 | sent1qhxm8ugyctnmj37kj0pqcgkvezdv2r5hyx3www | 55,100 DVPN | Mod indonesia Trial 1 Month | [🔎](https://www.mintscan.io/sentinel/tx/4834C6D9C510B5D68D09C6B3FB98CC66F94E1CBF848DE53F99AC16CF6AA7D17D?height=15733227)

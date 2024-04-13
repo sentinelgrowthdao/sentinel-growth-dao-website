@@ -54,3 +54,4 @@ The DAO expenses for advertisement & Marketing
 | 08/04/2024 | sent1j88x23kvz5zex8gnvqytsk20suhcjsc29vvawt | 25,000 DVPN | dvpn.news Foxinodes Article | [🔎](https://www.mintscan.io/sentinel/tx/43187150D118703655BDFB76D2033BD2FC431C541A2932AB03EF1BDF227FA1C5?height=15724136)
 | 09/04/2024 | sent1qhxm8ugyctnmj37kj0pqcgkvezdv2r5hyx3www | 55,100 DVPN | Mod indonesia Trial 1 Month | [🔎](https://www.mintscan.io/sentinel/tx/4834C6D9C510B5D68D09C6B3FB98CC66F94E1CBF848DE53F99AC16CF6AA7D17D?height=15733227)
 | 12/04/2024 | sent15kymhuttldgzxhpgg9y7jeh9zzphd49amfzvke | 465,000 DVPN | dvpn.news Contributor | [🔎](https://www.mintscan.io/sentinel/tx/BE76555A68C34C3C68D523A9E345413A2A789CC1D1F623BA76F728E154104630?height=15774279)
+| 12/04/2024 | sent1600vl2w6ewyu70um925lhcmeav757ml8umenqt | 5,000,000 DVPN | App marketing costs. Wires and sponsors | [🔎](https://www.mintscan.io/sentinel/tx/E81FEC37A8AC87EF0283E953F3C2266E305DC3D4B4515C448C881A651C5479B8?height=15775553)

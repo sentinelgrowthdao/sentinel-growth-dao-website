@@ -14,7 +14,7 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://sentinelgrowthdao.com',
-  //url: 'https://trinityprivacy.github.io',
+  //url: 'https://sentinelgrowthdao.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   //baseUrl: '/sentinel-growth-dao-website/',
@@ -22,8 +22,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'trinityprivacy', // Usually your GitHub org/user name.
-  projectName: 'sentinel-growth-dao-website', // Usually your repo name.
+  organizationName: 'sentinelgrowthdao', // Usually your GitHub org/user name.
+  projectName: 'website', // Usually your repo name.
 
   trailingSlash: false,
   

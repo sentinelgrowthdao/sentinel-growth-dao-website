@@ -24,3 +24,4 @@ The DAO expenses for infrastructure
 | 18/03/2024 | sent1zr6hglr56dtsyrx0guppcas7huwggfu9z6tr6k | 100,001 DVPN | dVPN Web App Bounty | [🔎](https://www.mintscan.io/sentinel/tx/C25AA257A15FF6EB1163128A05331EC7F115EDE4D18FCFFD021A8E212AF10516?height=15413013)
 | 30/03/2024 | sent1zr6hglr56dtsyrx0guppcas7huwggfu9z6tr6k | 25,000 DVPN | Sentinel Wallet and Usage Video | [🔎](https://www.mintscan.io/sentinel/tx/D7CC1D62B924FB4A94B0F854DA8286E7B2F2C028BDB6566FA9C46AE2C9560B4B?height=15587417)
 | 12/04/2024 | sent1zr6hglr56dtsyrx0guppcas7huwggfu9z6tr6k | 25,000 DVPN | DVPN Staking Video | [🔎](https://www.mintscan.io/sentinel/tx/590C27888079BA22CA1BB1784ECEB7C306FE8AE0F3F1221AFD9E5AD2406FCA6B?height=15772936)
+| 12/04/2024 | sent1hud0wx3pjd83jcd0frkzt70dhdu7wgjvh5f4za | 250,000 DVPN | Airdrop Geoblock Video | [🔎](https://www.mintscan.io/sentinel/tx/F4E498C9E75168ACF604C628E6581390BAA621B441BB2C5379F524FBE141A26E?height=16033706)

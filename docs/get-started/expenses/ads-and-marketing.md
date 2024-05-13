@@ -62,3 +62,7 @@ The DAO expenses for advertisement & Marketing
 | 06/05/2024 | sent1aqzdyf7c8vcy7826yw6zsy4y0gcvpf4sczhp44 | 155,000 DVPN | Admin/Mod | [🔎](https://www.mintscan.io/osmosis/tx/363F9F53ED190D91102044BF7B76EDE8509C43AABA11828BF9FD3D1D7B922037?height=15502023)
 | 06/05/2024 | sent1aqzdyf7c8vcy7826yw6zsy4y0gcvpf4sczhp44 | 100,000 DVPN | Admin/Mod | [🔎](https://www.mintscan.io/osmosis/tx/9922AC44A73789496FA5370CF0D2E0627FB79D9CBA8A27DB38673001D4C40A4C?height=15503857)
 | 07/05/2024 | sent15p0nz6928vkrzyrww9r44sf3ealjrxv3h9wz9h | 150,000 DVPN | Bounty Prize | [🔎](https://www.mintscan.io/sentinel/tx/4EA1442B0A470D7245230EC3EE11CE23D2E7873AE3388E0524EA0D7C1B9296CF?height=16115230)
+| 10/05/2024 | sent1qhxm8ugyctnmj37kj0pqcgkvezdv2r5hyx3www | 85,000 DVPN | Mod/Contributor | [🔎](https://www.mintscan.io/sentinel/tx/9068C58B06F7DBD8C54DC120897CA7B8ABF046AB915877D94EDAF9654A1B1F3C?height=16152915)
+| 11/05/2024 | sent1q9xmjvevl47420hq5362yf5ef2000yunrvcg4l | 128,000 DVPN | Contributor | [🔎](https://www.mintscan.io/sentinel/tx/3C70DFBAEEDA3D557BB9283B257CBA86423051BF27FE8DD9893436BCCCD32D88?height=16173515)
+| 11/05/2024 | sent15kymhuttldgzxhpgg9y7jeh9zzphd49amfzvke | 678,541 DVPN | dvpn.news Contributor | [🔎](https://www.mintscan.io/sentinel/tx/11037C5EBF3102519D999A7B94F86E7E4D3AABAB8EE4556477E995A288AE18EC?height=16174922)
+| 12/05/2024 | sent1znpyggqftz5hnqu4dqttp9ce3q4xhc5xlzfvtv | 85,100 DVPN | Payment Node Management | [🔎](https://www.mintscan.io/sentinel/tx/E63EEB109B8DF387B71B8933302233269AE16060CE80CFF1762EDC66BFEBD535?height=16183973)

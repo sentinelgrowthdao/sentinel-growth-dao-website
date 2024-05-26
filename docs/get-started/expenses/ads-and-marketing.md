@@ -65,4 +65,4 @@ The DAO expenses for advertisement & Marketing
 | 10/05/2024 | sent1qhxm8ugyctnmj37kj0pqcgkvezdv2r5hyx3www | 85,000 DVPN | Mod/Contributor | [🔎](https://www.mintscan.io/sentinel/tx/9068C58B06F7DBD8C54DC120897CA7B8ABF046AB915877D94EDAF9654A1B1F3C?height=16152915)
 | 11/05/2024 | sent1q9xmjvevl47420hq5362yf5ef2000yunrvcg4l | 128,000 DVPN | Contributor | [🔎](https://www.mintscan.io/sentinel/tx/3C70DFBAEEDA3D557BB9283B257CBA86423051BF27FE8DD9893436BCCCD32D88?height=16173515)
 | 11/05/2024 | sent15kymhuttldgzxhpgg9y7jeh9zzphd49amfzvke | 678,541 DVPN | dvpn.news Contributor | [🔎](https://www.mintscan.io/sentinel/tx/11037C5EBF3102519D999A7B94F86E7E4D3AABAB8EE4556477E995A288AE18EC?height=16174922)
-| 12/05/2024 | sent1znpyggqftz5hnqu4dqttp9ce3q4xhc5xlzfvtv | 85,100 DVPN | Payment Node Management | [🔎](https://www.mintscan.io/sentinel/tx/E63EEB109B8DF387B71B8933302233269AE16060CE80CFF1762EDC66BFEBD535?height=16183973)
+| 25/05/2024 | sent1s0alwqyrrmqlgu8fwfqlx3pesgce5xavx5nr2a | 160,000 DVPN | Mods | [🔎](https://www.mintscan.io/sentinel/tx/74A3AE95E6DFD7AD0FFF7C7CC8373952906C86C6B6200BC6029FA4A1D8947514?height=16359317)

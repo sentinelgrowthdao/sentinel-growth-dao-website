@@ -17,3 +17,5 @@ The DAO expenses related to travel and meetings
 | 03/05/2024 | cosmos1nufr9p7gan7870pywannlyvzn6vf28m7009630 | 256.769798 ATOM | Explorer, Content Marketing | [🔎](https://www.mintscan.io/cosmos/tx/EDF290031F9F1F0EFE493C6A1F7E5FEF0FF033AD39BC341F2FED69534DB4B841?height=20265210)
 | 09/05/2024 | cosmos1nufr9p7gan7870pywannlyvzn6vf28m7009630 | 913.220023 ATOM | PR & Events | [🔎](https://www.mintscan.io/cosmos/tx/4C8A9080174CCDBE341B500035CB620D877357F804E9D668D82F910A57E6FB5F?height=20352178)
 | 16/05/2024 | cosmos1nufr9p7gan7870pywannlyvzn6vf28m7009630 | 239.096136 ATOM | Design, Contributors, and Test Ad | [🔎](https://www.mintscan.io/cosmos/tx/AD77B59DE333F4BA12BF4B26C1C181F0A7F4166BDB385DA51F66A5DE311268BD?height=20452707)
+| 28/05/2024 | osmo1nufr9p7gan7870pywannlyvzn6vf28m785k28a | 1,920 OSMO | PR & Events | [🔎](https://www.mintscan.io/osmosis/tx/08320ECD14D0780E6C3AFFF586FB31427CDFEECF2737FFC953758CE44DBEA819?height=16153019)
+| 28/05/2024 | osmo1nufr9p7gan7870pywannlyvzn6vf28m785k28a | 13,380 OSMO | PR & Events | [🔎](https://www.mintscan.io/osmosis/tx/7403E241C698DF7FAE7C4E964B4578697C9A77F2A64B9FEFF77E67AF714A18B1?height=16153052)

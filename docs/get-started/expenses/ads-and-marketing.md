@@ -66,4 +66,5 @@ The DAO expenses for advertisement & Marketing
 | 11/05/2024 | sent1q9xmjvevl47420hq5362yf5ef2000yunrvcg4l | 128,000 DVPN | Contributor | [🔎](https://www.mintscan.io/sentinel/tx/3C70DFBAEEDA3D557BB9283B257CBA86423051BF27FE8DD9893436BCCCD32D88?height=16173515)
 | 11/05/2024 | sent15kymhuttldgzxhpgg9y7jeh9zzphd49amfzvke | 678,541 DVPN | dvpn.news Contributor | [🔎](https://www.mintscan.io/sentinel/tx/11037C5EBF3102519D999A7B94F86E7E4D3AABAB8EE4556477E995A288AE18EC?height=16174922)
 | 25/05/2024 | sent1s0alwqyrrmqlgu8fwfqlx3pesgce5xavx5nr2a | 160,000 DVPN | Mods | [🔎](https://www.mintscan.io/sentinel/tx/74A3AE95E6DFD7AD0FFF7C7CC8373952906C86C6B6200BC6029FA4A1D8947514?height=16359317)
-| 25/05/2024 | noble19uv7rcw9q9tuxydz0wr24uja27evnv0u2ffh4q | 900 USDC | PR | [🔎](https://www.mintscan.io/osmosis/tx/CED10BC1CCBC897D9EB6D5D48A0183D2B5F32FF452C1B56E008592BFB7BD9644?height=16066141)
+| 25/05/2024 | noble19uv7rcw9q9tuxydz0wr24uja27evnv0u2ffh4q | 900 USDC | PR Cosmos Hoss | [🔎](https://www.mintscan.io/osmosis/tx/CED10BC1CCBC897D9EB6D5D48A0183D2B5F32FF452C1B56E008592BFB7BD9644?height=16066141)
+| 26/05/2024 | sent1dghgmzgmqtnrgzr4qvx6e88tzder4ss3nxshlp | 150,000 DVPN | Contributor | [🔎](https://www.mintscan.io/sentinel/tx/1C38B3F5ED197FAD50FC58E7FCCD501812BBA3B17CB4ED3A3E01E858FAC7E3B2?height=16375377)

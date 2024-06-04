@@ -36,3 +36,5 @@ The monthly salaries distributed to DAO members
 | 12/05/2024 | sent17kcwd875e37523khlux2x5eqtl2sg8reyqqrqk | 1,000,000 DVPN | Member Salary May | [🔎](https://www.mintscan.io/sentinel/tx/CFF7A3D19C59A5BAB98B02A8371EED40C00540D9EE6BA5454C4F3AABCB6F6163?height=16183206)
 | 12/05/2024 | sent1dzmhqtlljg9ueh9zxgsukm7x0kae7lykq4663l | 1,000,000 DVPN | Member Salary May | [🔎](https://www.mintscan.io/sentinel/tx/6ADAFE59D940F5E631490B935FB0B863D15CEE1BFCC59A33B786DDBCDDE814FB?height=16183349)
 | 12/05/2024 | sent1h5kqk49qply5mzr9lh0er377k0rtxdps3q3q9z | 1,000,000 DVPN | Member Salary May | [🔎](https://www.mintscan.io/sentinel/tx/B8FA69D94865188FE2FB8E41DEC80497B9EFC816CE256D02933E43958647F9B0?height=16183391)
+| 30/05/2024 | sent1p2xps5cp06jw5rhk7cwvp9u7pxvtnywc4wyyy0 | 2,000,000 DVPN | Member Salary June | [🔎](https://www.mintscan.io/sentinel/tx/E9933402F5AB0595C862EDBEB1555F604A7AB0D14A2EF06283051480D532A366?height=16431897)
+| 01/06/2024 | sent16zq5y8m9hgvl2uylwvz702m0ppeznve37x9fmh | 1,000,000 DVPN | Member Salary June | [🔎](https://www.mintscan.io/sentinel/tx/D777380AE7D776400F09C7986A7A95BC6740182525375B21AE99AE4CDAB59AD4?height=16466804)

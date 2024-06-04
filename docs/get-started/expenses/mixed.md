@@ -19,3 +19,4 @@ The DAO expenses related to travel and meetings
 | 16/05/2024 | cosmos1nufr9p7gan7870pywannlyvzn6vf28m7009630 | 239.096136 ATOM | Design, Contributors, and Test Ad | [🔎](https://www.mintscan.io/cosmos/tx/AD77B59DE333F4BA12BF4B26C1C181F0A7F4166BDB385DA51F66A5DE311268BD?height=20452707)
 | 28/05/2024 | osmo1nufr9p7gan7870pywannlyvzn6vf28m785k28a | 1,920 OSMO | PR & Events | [🔎](https://www.mintscan.io/osmosis/tx/08320ECD14D0780E6C3AFFF586FB31427CDFEECF2737FFC953758CE44DBEA819?height=16153019)
 | 28/05/2024 | osmo1nufr9p7gan7870pywannlyvzn6vf28m785k28a | 13,380 OSMO | PR & Events | [🔎](https://www.mintscan.io/osmosis/tx/7403E241C698DF7FAE7C4E964B4578697C9A77F2A64B9FEFF77E67AF714A18B1?height=16153052)
+| 01/06/2024 | osmo1nufr9p7gan7870pywannlyvzn6vf28m785k28a | 9,530 OSMO | PR & Events | [🔎](https://www.mintscan.io/osmosis/tx/82726A8C0DE3A909D37CFBBF74979225F05FC83E025B1851BB487C4A190FE3B2?height=16301141)

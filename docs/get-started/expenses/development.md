@@ -41,3 +41,4 @@ The DAO expenses related to development
 | 24/05/2024 | sent1znpyggqftz5hnqu4dqttp9ce3q4xhc5xlzfvtv | 250,000 DVPN | Busurnode Services | [🔎](https://www.mintscan.io/sentinel/tx/373895362A267CD1C26A4543786CAC662EBC74E751469746E5D08FDD4C66EBE7?height=16347445)
 | 26/05/2024 | sent1xmc6yzr95v0w5pcx7k8qx97w69rhc4ca86kf27 | 500,000 DVPN | Node Network Development Contributor | [🔎](https://www.mintscan.io/sentinel/tx/CCABACE456CA360295F3B1D15DCB5165621E26A10BAF402067089B868A2E02DA?height=16366934)
 | 30/05/2024 | sent1gk744qnrnvnfd426aak4xhvywtv9ag22haqjz3 | 100,000 DVPN | Node Bounty | [🔎](https://www.mintscan.io/sentinel/tx/15BE859AA5ECA01AF524AD2AE53B8D9DD43532BD4BAD4F2490EF280A28BD4D87?height=16438765)
+| 05/06/2024 | osmo1nufr9p7gan7870pywannlyvzn6vf28m785k28a | 2,825,000 OSMO | VPN | [🔎](https://www.mintscan.io/osmosis/tx/FFF7F96F03A16A778B43CAF8AB0F0BEC6B3378B611F4CBD66D5A9848262E6552?height=16436408)

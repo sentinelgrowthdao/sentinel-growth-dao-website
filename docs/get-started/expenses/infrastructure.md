@@ -28,3 +28,4 @@ The DAO expenses for infrastructure
 | 14/03/2024 | sent17h00cnhccphxftsxm98s88n3s20quqkj4jg6dv | 1,000,000 DVPN | Subscription Faucet refill | [🔎](https://www.mintscan.io/sentinel/tx/7DD8FE205B11BE1E47A666540AA06DFC88091D5975AD1E0CA2653FB561D16F1A?height=15355738)
 | 26/03/2024 | osmo1ga50zexwcsnr5t33nmfmunzv80rmnnytzs5z8l | 270 USDC | Raspberry for Casanode | [🔎](https://www.mintscan.io/osmosis/tx/756CFA3D0CCD894F149420B49DC28F348945ECBEE5068BB7E9B3307DBEE5A97D?height=14508760)
 | 12/05/2024 | sent1znpyggqftz5hnqu4dqttp9ce3q4xhc5xlzfvtv | 85,100 DVPN | Payment Node Management | [🔎](https://www.mintscan.io/sentinel/tx/E63EEB109B8DF387B71B8933302233269AE16060CE80CFF1762EDC66BFEBD535?height=16183973)
+| 08/06/2024 | cosmos12x9t3zpaveh5nmkvrsznxkj2vu3zaee4732kcg | 251.634240 ATOM | Legal Costings | [🔎](https://www.mintscan.io/cosmos/tx/06D449054E8D673C1F02D570A80FD32A35CEB442B4793CF92C920C9C421F5641?height=20774359)

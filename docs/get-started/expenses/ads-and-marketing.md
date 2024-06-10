@@ -68,3 +68,5 @@ The DAO expenses for advertisement & Marketing
 | 25/05/2024 | sent1s0alwqyrrmqlgu8fwfqlx3pesgce5xavx5nr2a | 160,000 DVPN | Mods | [🔎](https://www.mintscan.io/sentinel/tx/74A3AE95E6DFD7AD0FFF7C7CC8373952906C86C6B6200BC6029FA4A1D8947514?height=16359317)
 | 25/05/2024 | noble19uv7rcw9q9tuxydz0wr24uja27evnv0u2ffh4q | 900 USDC | PR Cosmos Hoss | [🔎](https://www.mintscan.io/osmosis/tx/CED10BC1CCBC897D9EB6D5D48A0183D2B5F32FF452C1B56E008592BFB7BD9644?height=16066141)
 | 26/05/2024 | sent1dghgmzgmqtnrgzr4qvx6e88tzder4ss3nxshlp | 150,000 DVPN | Contributor | [🔎](https://www.mintscan.io/sentinel/tx/1C38B3F5ED197FAD50FC58E7FCCD501812BBA3B17CB4ED3A3E01E858FAC7E3B2?height=16375377)
+| 05/06/2024 | sent1aqzdyf7c8vcy7826yw6zsy4y0gcvpf4sczhp44 | 265,500 DVPN | Admin/Mod | [🔎](https://www.mintscan.io/sentinel/tx/81EDA0F80A24A58477DE0F6DC73B7740E1D0FFC21517360358B901BCACDBF140?height=16520115)
+| 10/06/2024 | sent15kymhuttldgzxhpgg9y7jeh9zzphd49amfzvke | 720,150 DVPN | dvpn.news Contributor | [🔎](https://www.mintscan.io/sentinel/tx/53E27D9B56A5260555FC7B4F58AF4E89B7C513D773581E7AC0EA835C20C3E222?height=16587614)

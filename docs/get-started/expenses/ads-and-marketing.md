@@ -70,3 +70,5 @@ The DAO expenses for advertisement & Marketing
 | 26/05/2024 | sent1dghgmzgmqtnrgzr4qvx6e88tzder4ss3nxshlp | 150,000 DVPN | Contributor | [🔎](https://www.mintscan.io/sentinel/tx/1C38B3F5ED197FAD50FC58E7FCCD501812BBA3B17CB4ED3A3E01E858FAC7E3B2?height=16375377)
 | 05/06/2024 | sent1aqzdyf7c8vcy7826yw6zsy4y0gcvpf4sczhp44 | 265,500 DVPN | Admin/Mod | [🔎](https://www.mintscan.io/sentinel/tx/81EDA0F80A24A58477DE0F6DC73B7740E1D0FFC21517360358B901BCACDBF140?height=16520115)
 | 10/06/2024 | sent15kymhuttldgzxhpgg9y7jeh9zzphd49amfzvke | 720,150 DVPN | dvpn.news Contributor | [🔎](https://www.mintscan.io/sentinel/tx/53E27D9B56A5260555FC7B4F58AF4E89B7C513D773581E7AC0EA835C20C3E222?height=16587614)
+| 11/06/2024 | sent1qhxm8ugyctnmj37kj0pqcgkvezdv2r5hyx3www | 92,000 DVPN | Mod/Contributor | [🔎](https://www.mintscan.io/sentinel/tx/2C9368C12FBE0B60FB422666074892EF92D0C2A4422938B5A15005EB62F751F2?height=16609884)
+| 13/06/2024 | sent1aqzdyf7c8vcy7826yw6zsy4y0gcvpf4sczhp44 | 250,000 DVPN | Twitter Blue Indonesia + Phone sims etc | [🔎](https://www.mintscan.io/sentinel/tx/0BD195C92B17064828F419BDE841DEF5D4A0E3A1F4917785E9C20522639C839F?height=16639271)
